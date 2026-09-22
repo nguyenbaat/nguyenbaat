@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Nguyễn Bá Ất (Kong)</h1>
-  <p><b>SEO Specialist • Digital Marketing • Co-founder @ 2S Digital</b></p>
+  <p><b>SEO • Digital Marketing • Co-founder @ 2S Digital</b></p>
 
   <!-- Social & Contact Badges (SVG) -->
   <p align="center">
