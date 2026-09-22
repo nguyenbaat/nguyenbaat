@@ -102,6 +102,8 @@ Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Ma
 
 ### Lộ trình kinh nghiệm (Work Experience)
 
+- **[Milingo](https://milingo.vn/)** *(03/2026 — Hiện tại)* — **Digital Marketing & Growth**  
+  *Phát triển và triển khai chiến lược Digital Marketing, SEO & tăng trưởng người dùng cho **Milingo - Ứng Dụng Học Ngoại Ngữ Qua Camera Tích Hợp AI**.*
 
 - **[Site2S](https://site2s.com/)** *(09/2024 — Hiện tại)* — **Co-founder & Manager**  
   *Xây dựng và vận hành nền tảng rút gọn link kiếm tiền, phục vụ hơn 2.000 người dùng thường xuyên và hàng trăm ngàn lượt truy cập mỗi tháng.*
