@@ -149,14 +149,6 @@ journey
 - **HR for People Managers** *(2023)*
 - **Chứng chỉ Tin học nghề & University Success** *(2021 & 2023)*
 
----
-
-### Thống kê GitHub (GitHub Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenbaat&show_icons=true&theme=radical&hide_border=true&title_color=2563eb&icon_color=0070f3&text_color=555555" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenbaat&theme=radical&hide_border=true&stroke=2563eb&ring=0070f3&fire=ff7700" height="150" alt="Streak Stats" />
-</div>
 
 ---
 
