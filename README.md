@@ -22,6 +22,7 @@
 Với kinh nghiệm thực tế trong SEO, Content Marketing, quản trị website và Digital Marketing, tôi đã trực tiếp tham gia triển khai nhiều dự án từ nghiên cứu từ khóa, xây dựng nội dung, tối ưu On-page, Technical SEO đến theo dõi hiệu quả qua dữ liệu.
 
 Tôi định hướng phát triển chuyên sâu về SEO và Organic Growth, tập trung vào việc kết hợp Content, Technical SEO và Data Analytics để cải thiện thứ hạng từ khóa, tăng trưởng Organic Traffic và tạo ra hiệu quả có thể đo lường cho doanh nghiệp.
+
 ---
 
 ### Điểm nhấn thành tựu (Key Highlights)
