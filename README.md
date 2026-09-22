@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Nguyễn Bá Ất (KongReal)</h1>
+  <h1>Nguyễn Bá Ất (Kong)</h1>
   <p><b>SEO Specialist • Digital Marketing • Co-founder @ 2S Digital</b></p>
 
   <!-- Social & Contact Badges (SVG) -->
