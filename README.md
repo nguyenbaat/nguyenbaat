@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Nguyễn Bá Ất (Kong Real)</h1>
+  <h1>Nguyễn Bá Ất (KongReal)</h1>
   <p><b>SEO Specialist • Digital Marketing • Co-founder @ 2S Digital</b></p>
 
   <!-- Social & Contact Badges (SVG) -->
@@ -21,17 +21,16 @@
 
 ### Về tôi (About Me)
 
-Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Marketing tại **FPT University**, định hướng chuyên sâu **SEO, Content Strategy & Growth Automation**.
+Với kinh nghiệm thực tế trong SEO, Content Marketing, quản trị website và Digital Marketing, tôi đã trực tiếp tham gia triển khai nhiều dự án từ nghiên cứu từ khóa, xây dựng nội dung, tối ưu On-page, Technical SEO đến theo dõi hiệu quả qua dữ liệu.
 
-- **Mục tiêu:** Trở thành **SEO Specialist** trong môi trường công nghệ chuyên nghiệp, tập trung tăng trưởng Organic Traffic bền vững và tối ưu hóa tỷ lệ chuyển đổi dựa trên dữ liệu thực tế (Data-driven).
-- **Kinh nghiệm thực chiến:** Trực tiếp xây dựng, đồng sáng lập và vận hành các nền tảng tự động hóa traffic với hàng ngàn người dùng hoạt động hàng tháng.
+Tôi định hướng phát triển chuyên sâu về SEO và Organic Growth, tập trung vào việc kết hợp Content, Technical SEO và Data Analytics để cải thiện thứ hạng từ khóa, tăng trưởng Organic Traffic và tạo ra hiệu quả có thể đo lường cho doanh nghiệp.
 ---
 
 ### Điểm nhấn thành tựu (Key Highlights)
 
 <div align="center">
 
-| Dự án / Trải nghiệm | Kết quả đo lường thực tế |
+| Dự án | Kết quả đo lường thực tế |
 | :--- | :--- |
 | **Viettel Digital** *(Intern SEO & Content)* | **160** từ khóa lên **Trang 1 Google** <br> **434** từ khóa lọt **TOP 20** <br> **601** từ khóa lọt **TOP 50** với 54 bài viết chuyên sâu |
 | **Site2S.com** *(Co-founder & Manager)* | Đạt **2.000+** người dùng thường xuyên sau 12 tháng <br> Xử lý **hàng trăm ngàn lượt truy cập/tháng**, tạo thu nhập cho Publishers |
@@ -72,7 +71,6 @@ Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Ma
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/REST_APIs-Integration-6366F1?style=flat-square" alt="REST API"/>
     </td>
   </tr>
   <tr>
@@ -128,7 +126,7 @@ Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Ma
 
 ### Học vấn & Chứng chỉ (Education & Certifications)
 
-- **FPT University** — *Cử nhân Digital Marketing (2022 — Hiện tại)*
+- **FPT University** — *Cử nhân Digital Marketing (2022 — 2026)*
 - **Google Analytics Certification** *(Google — 2023)*
 - **HR for People Managers** *(2023)*
 - **Chứng chỉ Tin học nghề & University Success** *(2021 & 2023)*
@@ -155,5 +153,5 @@ Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Ma
   </a>
 
   <br><br>
-  <sub>© 2026 <b>Nguyễn Bá Ất</b> (Kong Real) • Designed for GitHub Profile</sub>
+  <sub>© 2026 <b>Nguyễn Bá Ất</b> (KongReal) • Designed for GitHub Profile</sub>
 </div>
