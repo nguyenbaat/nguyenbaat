@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=SEO+Specialist+%26+Organic+Traffic+Growth;Co-founder+%40+Site2S+%26+Traffic2S;Data-Driven+Marketer+%7C+FPT+University;Technical+SEO+%E2%80%A2+On-page+%26+Off-page" alt="Typing SVG" /></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=SEO+Specialist+%26+Organic+Traffic+Growth;Co-founder+%40+Site2S+%26+Traffic2S;Digital+Marketing+%E2%80%A2+FPT+University;Technical+SEO+%E2%80%A2+On-page+%26+Off-page" alt="Typing SVG" /></a>
   </p>
 </div>
 
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Về tôi (About Me)
 
-Xin chào! Mình là **Nguyễn Bá Ất (KongReal)** — Sinh viên Digital Marketing tại **FPT University**, định hướng chuyên sâu **SEO, Content Strategy & Growth Hacking**.
+Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Marketing tại **FPT University**, định hướng chuyên sâu **SEO, Content Strategy & Growth Hacking**.
 
 - 🎯 **Mục tiêu:** Trở thành **SEO Specialist** trong môi trường công nghệ chuyên nghiệp, tập trung tăng trưởng Organic Traffic bền vững và tối ưu hóa tỷ lệ chuyển đổi dựa trên dữ liệu thực tế (Data-driven).
 - 🚀 **Kinh nghiệm thực chiến:** Đã trực tiếp xây dựng, đồng sáng lập và vận hành các nền tảng tự động hóa traffic với hàng ngàn người dùng hoạt động hàng tháng.
