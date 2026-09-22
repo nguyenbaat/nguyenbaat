@@ -102,20 +102,6 @@ Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Ma
 
 ### Lộ trình kinh nghiệm (Work Experience)
 
-```mermaid
-journey
-    title Hành trình phát triển sự nghiệp & Startup
-    section 2022 - 2023
-      Bắt đầu Digital Marketing tại FPT University: 5: FPT
-      Chứng chỉ Google Analytics & Academic Skills: 5: Cert
-    section 2024
-      SEO & Content Freelancer tại Thuê Nhà 365: 4: Freelance
-      Đồng sáng lập & Vận hành Site2S & Traffic2S: 5: Startup
-      Thực tập sinh Digital Marketing tại Viettel Digital: 5: Viettel
-    section 2025 - Hiện tại
-      Phụ trách Full-stack SEO tại VLXD Hoàng Yến: 5: Freelance
-      Nghiên cứu & Xây dựng SEO Automation Tools: 5: Project
-```
 
 - **[Site2S](https://site2s.com/)** *(09/2024 — Hiện tại)* — **Co-founder & Manager**  
   *Xây dựng và vận hành nền tảng rút gọn link kiếm tiền, phục vụ hơn 2.000 người dùng thường xuyên và hàng trăm ngàn lượt truy cập mỗi tháng.*
