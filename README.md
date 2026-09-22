@@ -1,7 +1,6 @@
 <div align="center">
-
-  <!-- Header Banner SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=220&section=header&text=Nguy%E1%BB%85n%20B%C3%A1%20%E1%BA%A4t&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Digital%20Marketing%20%7C%20SEO%20Specialist%20%7C%20Growth%20%26%20Automation&subfontSize=18&subfontColor=e0e0e0" width="100%"/>
+  <h1>Nguyễn Bá Ất (Kong Real)</h1>
+  <p><b>SEO Specialist • Digital Marketing • Co-founder @ 2S Digital</b></p>
 
   <!-- Social & Contact Badges (SVG) -->
   <p align="center">
@@ -115,7 +114,7 @@ Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Ma
   *Nghiên cứu từ khóa và sản xuất 54 bài viết chuẩn SEO, đưa 160 từ khóa vào Trang 1 Google và 434 từ khóa vào Top 20.*
 
 - **[VLXD Hoàng Yến](https://vlxdhoangyen.com/)** *(2025 — Hiện tại)* — **Full-stack SEO Freelancer**  
-  *Thiết kế cấu trúc website chuẩn Silo, tối ưu On-page & Off-page, quản trị Google Search Console, Google Analytics 4 và mạng xã hội.*
+  *Thiết kế cấu trúc website chuẩn, tối ưu On-page & Off-page, quản trị Google Search Console, Google Analytics 4 và mạng xã hội.*
 
 - **[Thuê Nhà 365](https://thuenha365.com/)** *(01/2024 — 01/2025)* — **Content & SEO Freelancer**  
   *Tối ưu nội dung chuẩn SEO cho lĩnh vực bất động sản, thiết kế hình ảnh và tối ưu tỷ lệ chuyển đổi qua kênh Fanpage.*
