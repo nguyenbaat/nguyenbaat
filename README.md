@@ -25,8 +25,6 @@ Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Ma
 
 - **Mục tiêu:** Trở thành **SEO Specialist** trong môi trường công nghệ chuyên nghiệp, tập trung tăng trưởng Organic Traffic bền vững và tối ưu hóa tỷ lệ chuyển đổi dựa trên dữ liệu thực tế (Data-driven).
 - **Kinh nghiệm thực chiến:** Trực tiếp xây dựng, đồng sáng lập và vận hành các nền tảng tự động hóa traffic với hàng ngàn người dùng hoạt động hàng tháng.
-- **Châm ngôn sống:** *"用钱解决不了的事情，就用更多的钱解决。"*
-
 ---
 
 ### Điểm nhấn thành tựu (Key Highlights)
@@ -113,7 +111,7 @@ Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Ma
 - **Viettel Digital** *(09/2024 — 01/2025)* — **Intern Digital Marketing**  
   *Nghiên cứu từ khóa và sản xuất 54 bài viết chuẩn SEO, đưa 160 từ khóa vào Trang 1 Google và 434 từ khóa vào Top 20.*
 
-- **[VLXD Hoàng Yến](https://vlxdhoangyen.com/)** *(2025 — Hiện tại)* — **Full-stack SEO Freelancer**  
+- **[VLXD Hoàng Yến](https://vlxdhoangyen.com/)** *(2025 — Hiện tại)* — **SEO Freelancer**  
   *Thiết kế cấu trúc website chuẩn, tối ưu On-page & Off-page, quản trị Google Search Console, Google Analytics 4 và mạng xã hội.*
 
 - **[Thuê Nhà 365](https://thuenha365.com/)** *(01/2024 — 01/2025)* — **Content & SEO Freelancer**  
@@ -123,9 +121,8 @@ Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Ma
 
 ### Dự án đang phát triển (In-Progress Projects)
 
-- **SEO Content Assistant Web App** `[35% Hoàn thiện]`
+- **SEO Content Assistant Web App** 
   - Công cụ hỗ trợ viết bài chuẩn SEO On-page: phân tích Title, Meta Tag, Heading (H1-H6), Core Web Vitals, Internal Links và mật độ từ khóa theo thời gian thực.
-  - *Tech stack:* `JavaScript` • `REST API` • `SEO Algorithms`
 
 ---
 
