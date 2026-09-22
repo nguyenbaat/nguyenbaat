@@ -50,7 +50,7 @@ Xin chào! Mình là **Nguyễn Bá Ất (Kong Real)** — Sinh viên Digital Ma
   <!-- Skill Icons SVG -->
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,ps,ai,pr,figma,github,postman&theme=dark" alt="Skill Icons" />
+      <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,ps,ai,pr,figma,github&theme=dark" alt="Skill Icons" />
     </a>
   </p>
 </div>
