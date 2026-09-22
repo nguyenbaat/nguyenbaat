@@ -4,13 +4,9 @@
 
   <!-- Social & Contact Badges (SVG) -->
   <p align="center">
-    <a href="https://github.com/nguyenbaat"><img src="https://img.shields.io/badge/GitHub-nguyenbaat-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/nguyenbaat/"><img src="https://img.shields.io/badge/LinkedIn-Nguyễn_Bá_Ất-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.linkedin.com/company/2sdigital/"><img src="https://img.shields.io/badge/LinkedIn-2S_Digital-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="2S Digital LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/nguyenbaat/"><img src="https://img.shields.io/badge/LinkedIn-Nguy%E1%BB%85n_B%C3%A1_%E1%BA%A4t-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://kongreal.com"><img src="https://img.shields.io/badge/Portfolio-kongreal.com-0070f3?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
     <a href="mailto:hi@kongreal.com"><img src="https://img.shields.io/badge/Email-hi@kongreal.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://zalo.me/0829849078"><img src="https://img.shields.io/badge/Zalo-0829_849_078-0068FF?style=flat-square&logo=zalo&logoColor=white" alt="Zalo"/></a>
-    <img src="https://img.shields.io/badge/Location-TP._H%E1%BB%93_Ch%C3%AD_Minh-24292e?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
   </p>
 
   <!-- Dynamic Typing SVG -->
