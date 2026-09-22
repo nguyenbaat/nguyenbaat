@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=SEO+Specialist+%26+Organic+Traffic+Growth;Co-founder+%40+Site2S+%26+Traffic2S;Digital+Marketing+%E2%80%A2+FPT+University;Technical+SEO+%E2%80%A2+On-page+%26+Off-page" alt="Typing SVG" /></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=SEO+Specialist+%26+Organic+Traffic+Growth;2S+Digital+%E2%80%A2+Co-founder+%40+Site2S+%26+Traffic2S;Digital+Marketing+%E2%80%A2+FPT+University;Technical+SEO+%E2%80%A2+On-page+%26+Off-page" alt="Typing SVG" /></a>
   </p>
 </div>
 
