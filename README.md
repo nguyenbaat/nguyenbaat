@@ -31,7 +31,7 @@ Tôi định hướng phát triển chuyên sâu về SEO và Organic Growth, t�
 
 | Dự án | Kết quả đo lường thực tế |
 | :--- | :--- |
-| **Viettel Digital** *(Intern SEO & Content)* | **160** từ khóa lên **Trang 1 Google** <br> **434** từ khóa lọt **TOP 20** <br> **601** từ khóa lọt **TOP 50** với 54 bài viết chuyên sâu |
+| **Viettel Digital** *(Intern SEO & Content)* | **160** từ khóa lên **Trang 1 Google** <br> **434** từ khóa lọt **TOP 20** <br> **601** từ khóa lọt **TOP 50** với 54 bài viết |
 | **Site2S.com** *(Co-founder & Manager)* | Đạt **2.000+** người dùng thường xuyên sau 12 tháng <br> Xử lý **hàng trăm ngàn lượt truy cập/tháng**, tạo thu nhập cho Publishers |
 | **Traffic2S.com** *(Co-founder & Manager)* | **Tự động hóa 80%** quy trình phân phối traffic đẩy Top SEO <br> Xử lý hàng ngàn đơn hàng & doanh thu tự động |
 
