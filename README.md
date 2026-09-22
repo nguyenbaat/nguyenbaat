@@ -119,7 +119,7 @@ Tôi định hướng phát triển chuyên sâu về SEO và Organic Growth, t�
 ### Dự án đang phát triển (In-Progress Projects)
 
 - **SEO Content Assistant Web App** 
-  - Công cụ hỗ trợ viết bài chuẩn SEO On-page: phân tích Title, Meta Tag, Heading (H1-H6), Core Web Vitals, Internal Links và mật độ từ khóa theo thời gian thực.
+  - Công cụ hỗ trợ viết bài chuẩn SEO.
 
 ---
 
